@@ -20,6 +20,11 @@ header img {
     margin-top: 40px;
 }
 
+/* container */
+.container {
+    margin:20px;
+
+}
 /* main */
 .margin-title {
     margin-top: 20px;
@@ -33,6 +38,21 @@ header img {
 .color-sky {
     color: #49b7e9;
 }
+
 .caption-font-size {
     font-size: 12px;
+}
+
+.highlighted {
+    background-color: #ffff00;
+}
+
+/* table */
+.table-header-style {
+color:#FFFFFF;
+background-color: #49b7e9;
+}
+
+.table-row-background {
+    background-color:#b1e6f2;
 }
