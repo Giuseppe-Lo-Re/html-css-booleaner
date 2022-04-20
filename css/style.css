@@ -21,6 +21,10 @@ header img {
 }
 
 /* main */
+.margin-title {
+    margin-top: 20px;
+    margin-bottom: 20px;
+}
 
 .color-grey {
     color: #858585;
@@ -28,4 +32,7 @@ header img {
 
 .color-sky {
     color: #49b7e9;
+}
+.caption-font-size {
+    font-size: 12px;
 }
